@@ -6,13 +6,24 @@ check the app here 👇
 https://huggingface.co/spaces/stanziinkunsal/GIF
 
 Features:
+
 Generate GIFs from multiple images
+
 Automatic image sorting for correct sequence
+
 Image resizing to ensure consistency
+
 Adjustable frame duration (speed control)
+
 Real-time preview of the generated GIF
+
 Downloadable output file
+
 Tech Stack: 
+
 Python
+
 Pillow (PIL)
+
 Gradio
+
